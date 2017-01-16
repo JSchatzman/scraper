@@ -15,6 +15,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+scraper-venv/
 lib/
 lib64/
 parts/
