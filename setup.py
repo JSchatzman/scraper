@@ -12,5 +12,5 @@ setup(
     # package_dir={''},
     # py_modules=['numpy'],
     extras_require={'test': ['pytest', 'pytest-watch', 'pytest-cov', 'tox'],
-                    'additional': ['requests', 'bs4']}
+                    'additional': ['requests', 'bs4', 'geocoder']}
 )
